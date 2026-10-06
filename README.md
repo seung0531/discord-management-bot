@@ -10,16 +10,9 @@ Discord 서버 운영 과정에서 발생하는 신규 유저 인증 절차와 �
 
 사용 기술
 
-- Backend
-  Python
-  discord.py
-- Infrastructure
-  Linux
-  SSH
-  systemd
-  Oracle Cloud Infrastructure 
-- Storage
-  JSON
+- Backend: Python, discord.py
+- Infrastructure: Linux, SSH, systemd, Oracle Cloud Infrastructure, 
+- Storage: JSON
 
 프로젝트 아키텍처
 
