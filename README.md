@@ -15,7 +15,7 @@ Discord 서버 운영 과정에서 발생하는 신규 유저 인증 절차와 �
 - Storage: JSON
 
 ### 프로젝트 아키텍처
-
+```text
 Discord User
 ↓
 Discord API
@@ -25,7 +25,7 @@ Oracle Cloud Linux Server
 Discord Bot (Python / discord.py)
 ↓
 JSON Storage
-
+```
 ### 주요 기능
 
 ### 1. 자동 인증 시스템
